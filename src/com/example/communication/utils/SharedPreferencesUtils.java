@@ -11,6 +11,21 @@ import android.content.SharedPreferences;
  * 3.通过get方法来获取数据
  * 4.通过clear方法来清除这个文件的数据
  * 这里没有提供清除单个key的数据，是因为存入相同的数据会自动覆盖，没有必要去理会
+ * <p/>
+ * //存储数据示例
+ * 先实例化：  SharedPreferencesUtils  spUtils = new SharedPreferencesUtils(this, "setting");
+ * 1.存储一个：  spUtils.putValues(new SharedPreferencesUtils.ContentValue("refresh", true));
+ * 2.存储多个：
+ * spUtils.putValues(new SharedPreferencesUtils.ContentValue("name", "liewnzhi")
+ * , new SharedPreferencesUtils.ContentValue("sex", "男")
+ * , new SharedPreferencesUtils.ContentValue("age", 26)
+ * , new SharedPreferencesUtils.ContentValue("old", true)
+ * , new SharedPreferencesUtils.ContentValue("love", "meinv")
+ * , new SharedPreferencesUtils.ContentValue("sport", "...")
+ * );
+ * //获取数据示例
+ * Integer age = spUtils.getInt("age");
+ * boolean old = spUtils.getBoolean("old", false);
  */
 public class SharedPreferencesUtils {
     //定义一个SharePreference对象

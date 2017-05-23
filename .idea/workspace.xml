@@ -26,7 +26,7 @@
     <list default="true" id="04c8662c-a8df-416d-994f-19a986dbdc05" name="Default" comment="" />
     <ignored path="ActivityCommunication.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/fragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495527670684" ignored="false" />
+    <file path="/fragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495531059911" ignored="false" />
     <file path="/MyActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495527417046" ignored="false" />
     <file path="/dialog_loading.xml" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495523942965" ignored="false" />
     <file path="/BaseAcitvity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495525873261" ignored="false" />
@@ -39,6 +39,39 @@
     <file path="/MyActivity3.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495526835973" ignored="false" />
     <file path="/MyActivity4.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495528279602" ignored="false" />
     <file path="/MyActivity5.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495528515701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/presenter/PatientListFragmentPresenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495529909963" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/activity/AccountSignActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495530668669" ignored="false" />
+    <file path="/AccountSignActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495530666137" ignored="false" />
+    <file path="/AccountSignPressenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495531858754" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/presenter/AccountSignPressenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495531860837" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/view/AccountSignView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495530615776" ignored="false" />
+    <file path="/AccountSignView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495530615776" ignored="false" />
+    <file path="/Dummy.txt" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495530831290" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/res/layout/dialog_piture.xml" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495532530856" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/widget/dialog/PictureDialog.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495533380737" ignored="false" />
+    <file path="/PictureDialog.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495533377783" ignored="false" />
+    <file path="/dialog_piture.xml" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495532528116" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/widget/photoview/PhotoView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495533089167" ignored="false" />
+    <file path="/PhotoView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495533081509" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/BaseActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535543506" ignored="false" />
+    <file path="/BaseActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535400019" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/activity/BloodPressureActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535758552" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/presenter/DialognosisPressenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535787120" ignored="false" />
+    <file path="/DialognosisPressenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535689631" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/view/DialogsisView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535728921" ignored="false" />
+    <file path="/DialogsisView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535728921" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/activity/DiagnosisActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495535758432" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/activity/DiagnosisAndSignatureActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495536189505" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/view/DiagnosisAndSignatureView.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495536088903" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/mvp/presenter/DiagnosisAndSignaturePresenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495536186854" ignored="false" />
+    <file path="/DiagnosisAndSignaturePresenter.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495536154416" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/fragment/BloodListFragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495537945967" ignored="false" />
+    <file path="/BloodListFragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495537258756" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/BaseFragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495537081489" ignored="false" />
+    <file path="/BaseFragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495537076351" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/fragment/RelateCharViewFragment.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495537811715" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ABP/src/com/wanputech/abp/ui/activity/LoginActivity.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495538430019" ignored="false" />
+    <file path="/SharedPreferencesUtils.java" changelist="04c8662c-a8df-416d-994f-19a986dbdc05" time="1495538788791" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,16 +135,34 @@
       <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="46" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
+            <state line="28" column="15" selection-start="693" selection-end="700" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseAcitvity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/BaseAcitvity.java">
+      <file leaf-file-name="MyActivity4.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="59" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+            <state line="28" column="81" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyActivity2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="90" selection-start="1119" selection-end="1197" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SharedPreferencesUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/communication/utils/SharedPreferencesUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="36" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,28 +173,19 @@
       <file leaf-file-name="MyActivity5.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="79" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+            <state line="37" column="60" selection-start="1055" selection-end="1148" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SharedPreferencesUtils.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/communication/utils/SharedPreferencesUtils.java">
+      <file leaf-file-name="BaseAcitvity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/BaseAcitvity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="419" selection-end="436" vertical-scroll-proportion="0.8306011">
+            <state line="15" column="57" selection-start="413" selection-end="413" vertical-scroll-proportion="0.7002457">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyActivity4.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="67" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -158,7 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/example/communication/utils/SharedPreferencesUtils.java" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/res/layout/dialog_loading.xml" />
         <option value="$PROJECT_DIR$/res/values/dimens.xml" />
@@ -173,12 +214,13 @@
         <option value="$PROJECT_DIR$/src/com/example/communication/activity/MyActivity4.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/example/communication/activity/MyActivity5.java" />
+        <option value="$PROJECT_DIR$/src/com/example/communication/utils/SharedPreferencesUtils.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="2" />
+    <option name="x" value="46" />
+    <option name="y" value="4" />
     <option name="width" value="1339" />
     <option name="height" value="728" />
   </component>
@@ -562,7 +604,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="2" width="1339" height="728" extended-state="0" />
+    <frame x="46" y="4" width="1339" height="728" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -579,14 +621,14 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24035087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980423" sideWeight="0.6877193" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3122807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980423" sideWeight="0.7596491" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3122807" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -716,29 +758,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="46" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="75" selection-start="1214" selection-end="1214" vertical-scroll-proportion="0.3114754">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/BaseAcitvity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="59" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/activity2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="40" selection-start="400" selection-end="414" vertical-scroll-proportion="0.5014663">
@@ -756,13 +775,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="67" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="65" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.58469945">
@@ -770,16 +782,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="15" selection-start="693" selection-end="700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="90" selection-start="1119" selection-end="1197" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="81" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/MyActivity5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="79" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
+        <state line="37" column="60" selection-start="1055" selection-end="1148" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/communication/utils/SharedPreferencesUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="419" selection-end="436" vertical-scroll-proportion="0.8306011">
+        <state line="32" column="36" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/communication/activity/BaseAcitvity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="413" selection-end="413" vertical-scroll-proportion="0.7002457">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
